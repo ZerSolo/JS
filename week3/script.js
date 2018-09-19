@@ -69,16 +69,18 @@ colorCar('blue');  // calling the function colorCar() with blue color ;
 
 /* _____________________________3__________________________________ */
  
-/*let obj={}
+let dog = { name:"bull Dog", 
+              color:"black", 
+              age:4
+    }
+  
+  function dogType(dog){
 
-   function fullName(obj){
-
-     console.log(obj);
+     console.log(dog);
      }
+  
+dogType(dog);
 
-
-fullName('zer','solo');
-*/
 
 
  /* _____________________________4_________________________________ */
